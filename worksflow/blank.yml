@@ -1,0 +1,21 @@
+name: CI github-workflows- blank yml
+
+on:[push] blank yml  ruzyysmartt ether
+
+jobs:ruzyysmartt-ether-repository- build:system operational network repository
+
+    - runs-on: ubuntu-latest (workflows npm blank yml json system operational
+
+    - steps:final system operational cheking 
+    - uses: actions/checkout@v1 system operational network
+    - name: Run a one-line script (release coverage json system repository)
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |npm yml workflows blank yml
+        echo Add other actions to build,
+        echo test, and deploy your project.
+    -  resault jobs: stabil and suksess system operation 
+more info:
+https://github.com/ruzyysmartt/ruzyysmartt-ether.git
+
+@GitHub.2020
